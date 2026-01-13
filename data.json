@@ -1,0 +1,33 @@
+{
+    "datos_completos": true,
+    "pregunta_siguiente": "",
+    "cv_datos": {
+        "contacto": {
+            "nombre": "Sara Pereira Torres",
+            "email": "sbenelramirez@gmail.com",
+            "telefono": "923452312"
+        },
+        "academica": [
+            {
+                "titulo": "Ingeniería de Sistemas",
+                "institucion": "Universidad Santo Toribio de Mogrovejo",
+                "anio_graduacion": ""
+            },
+            {
+                "titulo": "Diplomado en Inteligencia Artificial Generativa",
+                "institucion": "Universidad de Chile",
+                "anio_graduacion": ""
+            }
+        ],
+        "laboral": [
+            {
+                "empresa": "BBVA",
+                "puesto": "Arquitecta de Datos",
+                "responsabilidades": "Valido soluciones en MSA asegurando la seguridad de los datos, la viabilidad de las soluciones, doy consultoría a los arq de soluciones sobre el correcto uso de las herramientas de datos",
+                "anio_inicio": 2022,
+                "anio_fin": "Presente"
+            }
+        ],
+        "add_extra_sections": true
+    }
+}
